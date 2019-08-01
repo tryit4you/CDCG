@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDCG.API", "CDCG.API\CDCG.API.csproj", "{AEE722D8-44ED-49A1-801F-35192A6EB7E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDCG.CLIENT", "CDCG.CLIENT\CDCG.CLIENT.csproj", "{5D04EFAE-2E5C-4512-9148-10AA19FCEAA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE722D8-44ED-49A1-801F-35192A6EB7E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE722D8-44ED-49A1-801F-35192A6EB7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE722D8-44ED-49A1-801F-35192A6EB7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE722D8-44ED-49A1-801F-35192A6EB7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D04EFAE-2E5C-4512-9148-10AA19FCEAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D04EFAE-2E5C-4512-9148-10AA19FCEAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D04EFAE-2E5C-4512-9148-10AA19FCEAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D04EFAE-2E5C-4512-9148-10AA19FCEAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D25E109A-77E3-4E5A-828D-0F6BA2FAFE02}
+	EndGlobalSection
+EndGlobal
